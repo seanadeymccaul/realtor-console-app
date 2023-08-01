@@ -13,5 +13,5 @@
 <p>The source code is contained within this repository and can be run using the Visual Studio IDE.</p>
 
 <h2>Gallery</h2>
-![image](https://github.com/seanadeymccaul/realtor-console-app/assets/103879392/b3244903-cbe7-4d70-8e59-458fc92fe393)
-![image](https://github.com/seanadeymccaul/realtor-console-app/assets/103879392/bcc78d95-6bdd-4157-99b7-a8832587bddc)
+<img width="978" alt="Screenshot 2023-08-01 at 3 44 15 pm" src="https://github.com/seanadeymccaul/realtor-console-app/assets/103879392/13c2b78d-7bf5-4351-8891-3da3ffe2f871">
+<img width="978" alt="Screenshot 2023-08-01 at 3 45 57 pm" src="https://github.com/seanadeymccaul/realtor-console-app/assets/103879392/68d6e170-b451-4ebd-9ea3-8c5285801c0a">
